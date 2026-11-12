@@ -1,0 +1,11 @@
+{
+  "item.trollmod.caine": "КЕЙН",
+  "itemGroup.trollmod": "ТРОЛЛИНГ",
+  "msg.trollmod.caine_on": "You are now КЕЙН! Double-tap jump to fly",
+  "msg.trollmod.caine_off": "You are a normal player again",
+  "msg.trollmod.vanish_on": "You vanished",
+  "msg.trollmod.vanish_off": "You are visible again",
+  "key.categories.trollmod": "ТРОЛЛИНГ",
+  "key.trollmod.invisibility": "Invisibility",
+  "ability.trollmod.invisibility": "Invisibility"
+}
